@@ -1,3 +1,3 @@
 # Delta-demo
-this is delta-demo
+this is delta-dem
 hi swargu
